@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahacagrimen
 - 👀 I’m interested in Fullstack Software
-- 🌱 I’m currently learning HTML, CSS, Bootstrap ,Javascript
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, Javascript
 - 📫 How to reach me tahacagrimen2@gmail.com
 
 <!---
