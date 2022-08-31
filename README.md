@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Cagri Men</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 🔭 I’m currently working on develop a full stack app
+- 🔭 I’m currently working on Theather Booking App
 
 - 🌱 I’m currently learning **GraphQL, MongoDB**
 
