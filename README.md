@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Chat App
 
-- 🌱 I’m currently learning **GraphQL, MongoDB**
+- 🌱 I’m currently learning **GraphQL, React Native**
 
 - 💬 Ask me about **React**
 
