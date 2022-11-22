@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Cagri Men</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 🔭 I’m currently working on Chat App
+- 🔭 I’m recently finished my Crypto Tracker App.
 
 - 🌱 I’m currently learning **GraphQL, React Native**
 
