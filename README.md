@@ -3,7 +3,7 @@
 
 - 🔭 I’m recently finished my Crypto Tracker App.
 
-- 🌱 I’m currently learning **GraphQL, React Native**
+- 🌱 I’m currently learning **GraphQL, Typescript**
 
 - 💬 Ask me about **React**
 
