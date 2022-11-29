@@ -27,6 +27,8 @@
 <h3 align="left">Some of my React projects:</h3>
 <a href="https://github.com/tahacagrimen/chat-app" target="blank">Mern Stack Realtime Chat App</a>
 <br>
+<a href="https://github.com/tahacagrimen/pomodoro-app" target="blank">Pomodoro App</a>
+<br>
 <a href="https://github.com/tahacagrimen/redux-note-app" target="blank">Redux Firebase Note Taking App</a>
 <br>
 <a href="https://github.com/tahacagrimen/react-weather-app" target="blank">React Weather Broadcast App</a>
