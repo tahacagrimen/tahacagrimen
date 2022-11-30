@@ -41,7 +41,7 @@
 <br>
 <hr>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahacagrimen&show_icons=true&locale=en&layout=compact" alt="tahacagrimen" /></p>
 
 <p>&nbsp;<img align="center" style="margin-left:1rem; margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=tahacagrimen&show_icons=true&locale=en" alt="tahacagrimen" /></p>
 
